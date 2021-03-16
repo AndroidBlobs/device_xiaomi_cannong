@@ -1,0 +1,9 @@
+-product/priv-app/HotwordEnrollmentOKGoogleRISCV/HotwordEnrollmentOKGoogleRISCV.apk
+-product/priv-app/HotwordEnrollmentXGoogleRISCV/HotwordEnrollmentXGoogleRISCV.apk
+bin/iwpriv
+lib64/libaptXHD_encoder.so
+lib64/libaptX_encoder.so
+product/lib/vendor.nxp.hardware.nfc@1.0.so
+product/lib/vendor.nxp.hardware.nfc@1.1.so
+product/lib64/vendor.nxp.hardware.nfc@1.0.so
+product/lib64/vendor.nxp.hardware.nfc@1.1.so
